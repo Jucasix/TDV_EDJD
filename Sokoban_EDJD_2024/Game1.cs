@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace Sokoban_EDJD_2024
+namespace Sokoban2024
 {
     public class Game1 : Game
     {

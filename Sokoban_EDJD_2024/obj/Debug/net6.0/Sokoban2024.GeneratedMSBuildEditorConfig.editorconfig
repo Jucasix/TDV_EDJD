@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Sokoban_EDJD_2024
-build_property.ProjectDir = C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\
+build_property.RootNamespace = Sokoban2024
+build_property.ProjectDir = C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\
