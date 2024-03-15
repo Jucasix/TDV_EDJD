@@ -23,41 +23,52 @@ C:\Daniel\ipca\2023-2024\desenvolvimento\sokoban_2024\Sokoban2024\obj\Debug\net6
 C:\Daniel\ipca\2023-2024\desenvolvimento\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.pdb
 C:\Daniel\ipca\2023-2024\desenvolvimento\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.genruntimeconfig.cache
 C:\Daniel\ipca\2023-2024\desenvolvimento\sokoban_2024\Sokoban2024\obj\Debug\net6.0\ref\Sokoban2024.dll
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\Character3.xnb
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\CrateDark_Blue.xnb
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\EndPoint_Yellow.xnb
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\File.xnb
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\Wall_Black.xnb
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Sokoban2024.exe
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Sokoban2024.deps.json
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Sokoban2024.runtimeconfig.json
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Sokoban2024.dll
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Sokoban2024.pdb
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\MonoGame.Framework.dll
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.csproj.AssemblyReference.cache
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.AssemblyInfoInputs.cache
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.AssemblyInfo.cs
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.csproj.CoreCompileInputs.cache
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.csproj.CopyComplete
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.dll
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\obj\Debug\net6.0\refint\Sokoban2024.dll
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.pdb
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.genruntimeconfig.cache
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Prof_Clone\sokoban_2024\Sokoban2024\obj\Debug\net6.0\ref\Sokoban2024.dll
+C:\Daniel\ipca\2023-2024\desenvolvimento\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\Character4.xnb
+C:\Daniel\ipca\2023-2024\desenvolvimento\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\Crate_Brown.xnb
+C:\Daniel\ipca\2023-2024\desenvolvimento\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\EndPoint_Blue.xnb
+C:\Daniel\ipca\2023-2024\desenvolvimento\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\File.xnb
+C:\Daniel\ipca\2023-2024\desenvolvimento\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\Wall_Brown.xnb
+C:\Daniel\ipca\2023-2024\desenvolvimento\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\level1.txt
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\Character4.xnb
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\Crate_Brown.xnb
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\EndPoint_Blue.xnb
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\File.xnb
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\Wall_Brown.xnb
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Sokoban2024.exe
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Content\level1.txt
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Sokoban2024.deps.json
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Sokoban2024.runtimeconfig.json
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Sokoban2024.dll
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\Sokoban2024.pdb
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.csproj.AssemblyReference.cache
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.AssemblyInfoInputs.cache
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.AssemblyInfo.cs
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.csproj.CoreCompileInputs.cache
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.csproj.CopyComplete
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.dll
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\obj\Debug\net6.0\refint\Sokoban2024.dll
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.pdb
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\obj\Debug\net6.0\Sokoban2024.genruntimeconfig.cache
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\Sokoban_Clone_Prof\sokoban_2024\Sokoban2024\obj\Debug\net6.0\ref\Sokoban2024.dll
 C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Content\Character3.xnb
 C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Content\CrateDark_Blue.xnb
 C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Content\EndPoint_Yellow.xnb
-C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Content\File.xnb
 C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Content\Wall_Black.xnb
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Content\Character4.xnb
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Content\Crate_Brown.xnb
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Content\EndPoint_Blue.xnb
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Content\File.xnb
+C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Content\Wall_Brown.xnb
 C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Sokoban2024.exe
 C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Content\level1.txt
 C:\Users\utilizador\OneDrive - Instituto Politécnico do Cávado e do Ave\01_Disciplinas\TDV\VS\TDV_EDJD\Sokoban_EDJD_2024\bin\Debug\net6.0\Sokoban2024.deps.json

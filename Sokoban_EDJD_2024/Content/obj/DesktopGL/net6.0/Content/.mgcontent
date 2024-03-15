@@ -4,11 +4,11 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_EDJD/Sokoban_EDJD_2024/Content/Character3.png</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_EDJD/Sokoban_EDJD_2024/Content/CrateDark_Blue.png</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_EDJD/Sokoban_EDJD_2024/Content/EndPoint_Yellow.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_EDJD/Sokoban_EDJD_2024/Content/Character4.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_EDJD/Sokoban_EDJD_2024/Content/Crate_Brown.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_EDJD/Sokoban_EDJD_2024/Content/EndPoint_Blue.png</File>
     <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_EDJD/Sokoban_EDJD_2024/Content/File.spritefont</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_EDJD/Sokoban_EDJD_2024/Content/Wall_Black.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_EDJD/Sokoban_EDJD_2024/Content/Wall_Brown.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
